@@ -20,15 +20,6 @@ You can run the [Chatbot.ipynb](https://github.com/bhumika-yadav/ml-project/blob
 ```
 
 
-<div align="center">
-<h3> Connect with me 
-</h3> 
-<p align="center">
-    <a href="mailto:bhumikay2604@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-    <a href="https://www.linkedin.com/in/bhumika-yadav-28564828b/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="https://github.com/bhumika-yadav" target="_blank"><img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="25px"></a>
-</p>  
-
 
 
 
